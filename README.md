@@ -12,3 +12,6 @@ file:///C:/Users/jaimani%20choudhary/Downloads/luvbabbarnotes.pdf
 
 file:///C:/Users/jaimani%20choudhary/Downloads/Operating_System_notes.pdf         //ritiqumari os
 https://drive.google.com/file/d/1wTyueDi5WRXdVrLSp7IrXKc9106tyZwp/view  //lovebabbar
+
+https://leetcode.com/discuss/interview-question/operating-system/6038667/Operating-System-Last-Minute-Notes   last min notes
+
